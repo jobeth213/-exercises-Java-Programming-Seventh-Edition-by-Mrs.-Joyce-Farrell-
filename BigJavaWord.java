@@ -1,3 +1,6 @@
+//Created By:Jobeth Billien
+//All rights goes to Jobeth Billien
+//Created on January 2017
 public class BigJavaWord
 {
 
